@@ -1,0 +1,7 @@
+// Declaring variables for the card
+var cardOne = "queen";
+var cardTwo = "king";
+var cardThree = "queen";
+var cardFour = "king";
+
+console.log("User flipped " + cardOne);
